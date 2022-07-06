@@ -23,7 +23,7 @@
 
 ## Usage
 
-- Use the live link to access the working app/
+-download the repo and use node server.js in your command line to open the working app
 
 https://user-images.githubusercontent.com/104233323/177448670-41aa6914-3027-4dfe-9717-2cecdbf629dc.mp4
 
