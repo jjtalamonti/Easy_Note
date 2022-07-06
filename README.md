@@ -19,11 +19,11 @@
 
 - The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
 - [Github Repo](https://github.com/jjtalamonti/Easy_Note)
-- [Github Live Link](https://jjtalamonti.github.io/Easy_Note/)
+- [App Live Link](https://jjtalamonti.github.io/Easy_Note/](https://secure-wave-92899.herokuapp.com/)
 
 ## Usage
 
--download the repo and use node server.js in your command line to open the working app
+-click on the app live link to access the note taker
 
 https://user-images.githubusercontent.com/104233323/177448670-41aa6914-3027-4dfe-9717-2cecdbf629dc.mp4
 
