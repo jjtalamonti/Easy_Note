@@ -25,7 +25,8 @@
 
 - Use the live link to access the working app/
 
-- [Usage Video](https://drive.google.com/file/d/1oD5LkN5wwdNRJ_fFUca-vVltNT4Trvhn/view)
+https://user-images.githubusercontent.com/104233323/177448670-41aa6914-3027-4dfe-9717-2cecdbf629dc.mp4
+
 
 ## Contributing
 
